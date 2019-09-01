@@ -30,6 +30,8 @@ Download the original CSV files from [Twitter](https://blog.twitter.com/en_us/to
 - [notebook2.3](https://github.com/chuachinhon/twitter_hk_trolls_cch/blob/master/notebooks/2.3_Scattertext_Chinese_cch.ipynb): Scattertext plot of English tweets by Chinese state trolls
 
 
+- [Folder for interactive Scattertext charts in noteook2.1 and 2.3](https://github.com/chuachinhon/twitter_hk_trolls_cch/tree/master/scattertext_charts): Download these charts if you'd rather not re-run the notebooks
+
 
 # CONTACT
 ### Twitter: @chinhon
